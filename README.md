@@ -15,3 +15,5 @@
 https://github.com/ausomehtmlcode/website-project/blob/main/help%20(read%20first)/Instructions.mp4
 
 ## Have fun!
+
+#### hint hint: if you're new to the whole github thing, it's very simple if you want the files. on the page where it shows elements, help, and the README file, click the green button that says code, and click download ZIP. Then, you can unzip that file, and access all that cool stuff! Like I said, if you don't know how to open it, watch the video!
